@@ -1,4 +1,4 @@
-print('HElLO, THIS IS MY RANDOM PASSWORD GENERATOR, PLEASE INPUT YOUR PASSWORD LENGTH')
+print('HElLO, THIS IS MY RANDOM PASSWORD GENERATOR, PLEASE INPUT YOUR PASSWORD LENGTH, MAXIMUM 36')
 # to create RANDOM password you need to import RANDOM MODULE from Python
 import random
 # create input for user 
